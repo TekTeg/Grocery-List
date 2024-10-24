@@ -1,0 +1,7 @@
+* {font-family:'papyrus','copperplate','fantasy','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;}
+h1{text-align: center; color:#bb2233; padding: 10px;}
+h2 {border: 1px solid #a99c91; border-radius: 25px; width: 50%; height: 40px;background-color: antiquewhite;padding: 10px; margin: 20px;}
+/* .list{float: left;} */
+.arrange {display: inline-block; width:23.5%; height: auto; background-color: gainsboro; margin: 20px; border-radius: 10px;}
+body{ background-color: #dacabd; background-size:10%;}
+/* .tabler{display: table; width: 100%;} */
